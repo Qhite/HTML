@@ -1,0 +1,55 @@
+@charset "utf-8";
+.title {
+	margin-right: 7px;
+	padding: 18px;
+	background-color: #0B2385;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+	
+.dl1 {
+	float: left;
+	margin-right: 7px;
+	padding: 18px;
+	background-color: #59b1f6;
+	color: white;
+	text-align: center;
+}
+
+.dr1 {
+	float: right;
+	margin-left: 0px;
+	background-color: #ffb5b4;
+	padding: 18px;
+	color: white;
+	text-align: center;
+}
+
+.dm1 {
+	margin-left: 7px;
+	padding: 18px 200px;
+	background-color: #FAFEAC;
+	color: #5e8818;
+	text-align: center;
+}
+.wrap {
+	padding: 10px;
+	background-color: #38FF42;
+	overflow: hidden;
+}
+.nav {
+	float: left;
+	padding: 100px 18px;
+	background-color: #00FBFF;
+	color: white;
+}
+	
+.sub{
+	margin-left: 7px;
+	padding: 18px 200px;
+	background-color: #9B0080;
+	color: #5e8818;
+	text-align: center;
+}
+
